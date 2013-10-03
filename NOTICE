@@ -1,0 +1,34 @@
+Copyright Codice Foundation
+
+This product includes software developed at 
+Lockheed Martin Corporation contributed to the Codice Foundation (http://www.codice.org). 
+Licensed under the GNU Lesser General Public License version 3.0.
+
+This product includes software developed at
+The Apache Software Foundation (http://apache.org/).
+Licensed under the Apache License 2.0.
+
+This product includes software developed at
+SpringSource (http://www.springsource.org/).
+Licensed under the Apache License 2.0.
+
+This product includes software developed at
+Sun Microsystems Inc.
+Licensed under the CDDL 1.1 License.
+
+This product includes software developed at
+SLF4J (http://www.slf4j.org/).
+Licensed under the SLF4J MIT License.
+
+This project includes software developed by Jasig.
+http://www.jasig.org/
+Licensed under the Apache License, Version 2.0
+
+License Summary:
+- LGPL 3.0 License
+- Apache License 2.0
+- CDDL 1.1 License
+- SLF4J MIT License
+
+For more information, view the NOTICE file that comes with the Jasig CAS war for any tools embedded within it.
+https://github.com/Jasig/cas/blob/master/NOTICE
