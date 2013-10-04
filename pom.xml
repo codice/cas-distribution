@@ -17,7 +17,7 @@
 
   <groupId>org.codice.cas.distribution</groupId>
   <artifactId>cas-distribution</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Codice CAS Distribution</name>
 
@@ -30,7 +30,7 @@
     <url>https://github.com/codice/cas-distribution.git</url>
     <connection>scm:git:git://github.com/codice/cas-distribution.git</connection>
     <developerConnection>scm:git:git://github.com/codice/cas-distribution.git</developerConnection>
-    <tag>cas-distribution-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
