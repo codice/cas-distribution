@@ -12,13 +12,12 @@
  *
  **/
 -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.codice.cas.distribution</groupId>
   <artifactId>cas-distribution</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
   <name>Codice CAS Distribution</name>
 
@@ -31,7 +30,7 @@
     <url>https://github.com/codice/cas-distribution.git</url>
     <connection>scm:git:git://github.com/codice/cas-distribution.git</connection>
     <developerConnection>scm:git:git://github.com/codice/cas-distribution.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>cas-distribution-1.0.0</tag>
   </scm>
 
   <distributionManagement>
